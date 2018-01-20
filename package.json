@@ -1,0 +1,30 @@
+{
+  "name": "bs4starter",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 Tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/locaulker/bs4Srarter.git"
+  },
+  "author": "LOCaulker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/locaulker/bs4Srarter/issues"
+  },
+  "homepage": "https://github.com/locaulker/bs4Srarter#readme",
+  "dependencies": {
+    "bootstrap": "4.0.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.5",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
